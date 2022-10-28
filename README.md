@@ -2,6 +2,8 @@
 
 This is a recording made by Maynard Marquis (1924 - 2013) about his service in the US Army in WW2. 
 
+Download full recording: https://github.com/FurTrader/Maynard-Marquis-ww2-memoir/raw/main/Maynard_Marquis_in_the_army.mp3
+
 It was recorded on audio cassette in 1993 and I copied it to MP3 and CDs around 2005-ish. 
 I edited the recording to remove background noise and unnessesary pauses.
 
