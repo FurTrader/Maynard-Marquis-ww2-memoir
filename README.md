@@ -4,7 +4,7 @@ This is a recording made by Maynard Marquis (1924 - 2013) about his service in t
 
 Download full recording: [Maynard_Marquis_in_the_army.mp3](https://github.com/FurTrader/Maynard-Marquis-ww2-memoir/raw/main/Maynard_Marquis_in_the_army.mp3)
 
-It was recorded on audio cassette in 1993 and I copied it to MP3 and CDs around 2005-ish. 
+It was recorded on audio cassette in 1991 and I copied it to MP3 and CDs around 2005-ish. 
 I edited the recording to remove background noise and unnessesary pauses.
 
 From Maynard's obituary:
